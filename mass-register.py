@@ -211,7 +211,7 @@ def mainogur():
     yoo2.click()
 
     time.sleep(1)
-
+    os.remove(filename) 
     driver.back()
 
 driver = webdriver.Firefox()
