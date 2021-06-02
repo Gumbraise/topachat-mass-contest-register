@@ -1,0 +1,4 @@
+webbot
+pyautogui
+requests
+argparse
